@@ -18,3 +18,4 @@ For more information, see the [GitHub Pages guide](https://help.github.com/en/gi
 Assuming you have changed the `editUrl` configuration in `neuron.dhall` (see the above section), you can simply click the "edit" icon on the published site to edit any note (see [Editing files in your repository](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) and [Creating new files](https://help.github.com/en/github/managing-files-in-a-repository/creating-new-files)). On every change, your site should eventually rebuild.
 
 For other ways to edit your notes, see the [neuron guide](https://neuron.zettel.page/2011406.html).
+Etc.
