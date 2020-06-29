@@ -12,3 +12,4 @@ This is an index zettel containing links to other zettels in the stash.
 
 ## Links to
 <2020-06-29-what>
+<2020-06-29-how>
